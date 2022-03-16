@@ -2,7 +2,7 @@ package com.company;
 
 public class closest_to_10 {
     public static void main(String[] args) {
-        double n=5.5;
+        double n=7.5;
         double m=13.45;
         int a=10;
         double b=Math.abs(a-n);
